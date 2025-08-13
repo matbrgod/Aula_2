@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class ItemControl : MonoBehaviour
 {
@@ -11,7 +12,7 @@ public class ItemControl : MonoBehaviour
     void Start()
     {
         audioSource = GetComponent<AudioSource>();
-
+        
     }
 
     // Update is called once per frame
@@ -23,6 +24,16 @@ public class ItemControl : MonoBehaviour
             coins++; // Increment coins when colliding with a coin item
             audioSource.Play(); // Play the coin collection sound
             Destroy(collision.gameObject); // Destroy the coin item after collecting it
+        }
+
+        Collider2D collision1 = Physics2D.OverlapCircle(transform.position, 0.1f, 256);
+        if (collision1)
+        {
+            maxHealth -= 100; // Decrement health when colliding with an enemy
+            Destroy(collision1.gameObject); // Destroy the enemy after colliding with it
+            print("Game Over");
+            SceneManager.LoadScene("GameOver");
+
         }
 
     }
