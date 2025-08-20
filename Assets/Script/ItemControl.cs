@@ -49,4 +49,6 @@ public class ItemControl : MonoBehaviour
         healthText.text = "Health: " + health;
         coinsText.text = "Coins: " + coins;
     }
+
+    
 }
