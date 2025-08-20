@@ -1,9 +1,10 @@
+using UnityEditor.Experimental.GraphView;
 using UnityEngine;
 
-public class EnemyMove : MonoBehaviour
+public class EnemyMove2 : MonoBehaviour
 {
     public float speed = 2f;              // Velocidade do movimento
-    private Vector2 direction = Vector2.up; // Começa indo para cima
+    private Vector2 direction = Vector2.left; // Começa indo para cima
 
     void Update()
     {
@@ -23,6 +24,5 @@ public class EnemyMove : MonoBehaviour
             direction = -direction;
         }
         // Inverte a direção ao colidir com qualquer coisa
-        
     }
 }

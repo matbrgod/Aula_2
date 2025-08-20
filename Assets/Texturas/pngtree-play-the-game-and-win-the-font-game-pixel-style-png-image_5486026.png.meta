@@ -1,0 +1,4251 @@
+fileFormatVersion: 2
+guid: e075580148c5f7146b7ed03d9a6f39c7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -298990690698622775
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_0
+  - first:
+      213: 5371628458553156242
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_1
+  - first:
+      213: 6297260587309294338
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_2
+  - first:
+      213: 7420090331179362204
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_3
+  - first:
+      213: -6040669788993652464
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_4
+  - first:
+      213: 7471318335650070087
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_5
+  - first:
+      213: -8057469428892587957
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_6
+  - first:
+      213: -7997661888164147019
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_7
+  - first:
+      213: 3625693491905110385
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_8
+  - first:
+      213: -2036203631661682615
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_9
+  - first:
+      213: 7397328478975059866
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_10
+  - first:
+      213: 5422599170563247204
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_11
+  - first:
+      213: 6649785590136966501
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_12
+  - first:
+      213: 4258186178220105042
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_13
+  - first:
+      213: -6678249365608168341
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_14
+  - first:
+      213: 3803416342022195616
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_15
+  - first:
+      213: -3048819587342273769
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_16
+  - first:
+      213: -807469915167066060
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_17
+  - first:
+      213: -5671022502892748589
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_18
+  - first:
+      213: -8655162782754269142
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_19
+  - first:
+      213: -2734656244265450359
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_20
+  - first:
+      213: 6817637227401533138
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_21
+  - first:
+      213: -6056995271153860339
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_22
+  - first:
+      213: -538760869519157282
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_23
+  - first:
+      213: 7381789889664010120
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_24
+  - first:
+      213: 2957597940073617359
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_25
+  - first:
+      213: 214093824728166866
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_26
+  - first:
+      213: -7497868926535836144
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_27
+  - first:
+      213: 6907385528095175986
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_28
+  - first:
+      213: 7963021309918619547
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_29
+  - first:
+      213: 4903527776172344780
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_30
+  - first:
+      213: 5437781304154987937
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_31
+  - first:
+      213: 2560970328262077054
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_32
+  - first:
+      213: -7545958669214357000
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_33
+  - first:
+      213: 3063109445548202164
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_34
+  - first:
+      213: -5617300788742870401
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_35
+  - first:
+      213: -3356127225282386432
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_36
+  - first:
+      213: -2102167548813585383
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_37
+  - first:
+      213: -2590588283256441263
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_38
+  - first:
+      213: -7571898027585725085
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_39
+  - first:
+      213: -1934931849327956320
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_40
+  - first:
+      213: 3508156545214052142
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_41
+  - first:
+      213: 6126050543634307367
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_42
+  - first:
+      213: 4864108634631158567
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_43
+  - first:
+      213: 5427086962501658120
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_44
+  - first:
+      213: -448753312583333735
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_45
+  - first:
+      213: -4244720666809312959
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_46
+  - first:
+      213: 3551461847222053681
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_47
+  - first:
+      213: -311188436989534998
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_48
+  - first:
+      213: 8169078131970497872
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_49
+  - first:
+      213: 332677202042455544
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_50
+  - first:
+      213: 4500050310971573027
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_51
+  - first:
+      213: 3818418413923814188
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_52
+  - first:
+      213: -711019415634905535
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_53
+  - first:
+      213: 8514596196044889719
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_54
+  - first:
+      213: -2802957453347014736
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_55
+  - first:
+      213: 4177119418005268550
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_56
+  - first:
+      213: 1045548861677526482
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_57
+  - first:
+      213: -8782405962839308888
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_58
+  - first:
+      213: -1292692354993930311
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_59
+  - first:
+      213: 4325269704067772921
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_60
+  - first:
+      213: -6911129347047318021
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_61
+  - first:
+      213: 2008281982096219774
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_62
+  - first:
+      213: 2155757379741722083
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_63
+  - first:
+      213: 3638428284463322939
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_64
+  - first:
+      213: 9037568656749864103
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_65
+  - first:
+      213: -389090888615088225
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_66
+  - first:
+      213: -5143270959413164107
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_67
+  - first:
+      213: 3093272707249952081
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_68
+  - first:
+      213: 3631830578438182945
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_69
+  - first:
+      213: 2783918245774356117
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_70
+  - first:
+      213: 8671717513558296851
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_71
+  - first:
+      213: 1001055433765992074
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_72
+  - first:
+      213: 1302608781963154196
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_73
+  - first:
+      213: -1473198321333263558
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_74
+  - first:
+      213: 6346651676787488537
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_75
+  - first:
+      213: -6631331006401312201
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_76
+  - first:
+      213: 2609281436276622941
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_77
+  - first:
+      213: 6191086546639103889
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_78
+  - first:
+      213: -7632852236322512363
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_79
+  - first:
+      213: -1730327948773521973
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_80
+  - first:
+      213: -1003362407525646907
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_81
+  - first:
+      213: 6232311830184327337
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_82
+  - first:
+      213: -673288270612819748
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_83
+  - first:
+      213: -1134800537840215515
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_84
+  - first:
+      213: 6940703791710789284
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_85
+  - first:
+      213: -3409280922406608248
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_86
+  - first:
+      213: 2730028685647744184
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_87
+  - first:
+      213: 5947076186174142643
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_88
+  - first:
+      213: -4949544063296004899
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_89
+  - first:
+      213: 3272144610332876740
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_90
+  - first:
+      213: -3465229012368939449
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_91
+  - first:
+      213: -3988046709368822161
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_92
+  - first:
+      213: 158409857386985683
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_93
+  - first:
+      213: 242663147635954294
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_94
+  - first:
+      213: -7610397583805496072
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_95
+  - first:
+      213: -2144055320301500982
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_96
+  - first:
+      213: -677462479284500688
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_97
+  - first:
+      213: 8070960492416759843
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_98
+  - first:
+      213: -5021029318619515601
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_99
+  - first:
+      213: 5305612448606906310
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_100
+  - first:
+      213: 6089590220174918942
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_101
+  - first:
+      213: -1114647443620083778
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_102
+  - first:
+      213: -5896109924633352890
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_103
+  - first:
+      213: -4458026056509863544
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_104
+  - first:
+      213: -8553588485699765567
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_105
+  - first:
+      213: 6260947007148671108
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_106
+  - first:
+      213: 2926026162095286012
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_107
+  - first:
+      213: -2937815409981487489
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_108
+  - first:
+      213: 8966406491164618747
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_109
+  - first:
+      213: -8943217783872812301
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_110
+  - first:
+      213: 343290858421258616
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_111
+  - first:
+      213: -599186100832719729
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_112
+  - first:
+      213: -4472902677847237227
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_113
+  - first:
+      213: -7813374966760604442
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_114
+  - first:
+      213: -4167207604492467619
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_115
+  - first:
+      213: -3862165583511751486
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_116
+  - first:
+      213: 5835435590379808500
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_117
+  - first:
+      213: -9218532338200107458
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_118
+  - first:
+      213: 5506239791961116227
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_119
+  - first:
+      213: -456785748410762256
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_120
+  - first:
+      213: -6883928536737536724
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_121
+  - first:
+      213: 3536046133204407669
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_122
+  - first:
+      213: 2541610183236707688
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_123
+  - first:
+      213: -9038874047353684977
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_124
+  - first:
+      213: 2117680869541474489
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_125
+  - first:
+      213: 3256971566606576748
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_126
+  - first:
+      213: 1338664034810661062
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_127
+  - first:
+      213: 9090312699190484035
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_128
+  - first:
+      213: 2989072841108339891
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_129
+  - first:
+      213: -8835153320670884253
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_130
+  - first:
+      213: -5809146502296471870
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_131
+  - first:
+      213: -5728147953466173990
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_132
+  - first:
+      213: 5097902205379028587
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_133
+  - first:
+      213: -3723359646133903365
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_134
+  - first:
+      213: 5684530483309179526
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_135
+  - first:
+      213: 7776281043581329218
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_136
+  - first:
+      213: -7806115400440978485
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_137
+  - first:
+      213: 7174572624500039995
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_138
+  - first:
+      213: 8301367846715269221
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_139
+  - first:
+      213: 4574222271558494448
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_140
+  - first:
+      213: -6157750666206236413
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_141
+  - first:
+      213: -3467889151855669694
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_142
+  - first:
+      213: 911901535903689213
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_143
+  - first:
+      213: 9159706569206373853
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_144
+  - first:
+      213: -5795477449285817660
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_145
+  - first:
+      213: 3297725024154448327
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_146
+  - first:
+      213: -5911641369996266498
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_147
+  - first:
+      213: -9025839285491670165
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_148
+  - first:
+      213: 4261461227295000153
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_149
+  - first:
+      213: 900339200406452719
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_150
+  - first:
+      213: -2642435594623179748
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_151
+  - first:
+      213: -2351328700570449600
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_152
+  - first:
+      213: 5295241605551200061
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_153
+  - first:
+      213: 3570129898256556000
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_154
+  - first:
+      213: 2023625783185277483
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_155
+  - first:
+      213: -3879930249591720187
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_156
+  - first:
+      213: 7500419597061631851
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_157
+  - first:
+      213: -8267856245213912958
+    second: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_158
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2246
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c882c90d85c9dbf0800000000000000
+      internalID: -298990690698622775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_1
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 2365
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292a0797f9bdb8a40800000000000000
+      internalID: 5371628458553156242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_2
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 2391
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20363acc32d546750800000000000000
+      internalID: 6297260587309294338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_3
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 2246
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97a147c7d479f660800000000000000
+      internalID: 7420090331179362204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_4
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 2365
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019799de4da3b2ca0800000000000000
+      internalID: -6040669788993652464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_5
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 2391
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ef84801747fa760800000000000000
+      internalID: 7471318335650070087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_6
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 2246
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48a946ae3e1e2090800000000000000
+      internalID: -8057469428892587957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_7
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 2365
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0db4ad2e8920190800000000000000
+      internalID: -7997661888164147019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_8
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 2391
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1712379650d015230800000000000000
+      internalID: 3625693491905110385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_9
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 2246
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940f174d593fdb3e0800000000000000
+      internalID: -2036203631661682615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_10
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 2365
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9760341f0798a660800000000000000
+      internalID: 7397328478975059866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_11
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 2391
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c00c82731f04b40800000000000000
+      internalID: 5422599170563247204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_12
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 2397
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d00ac13c8c84c50800000000000000
+      internalID: 6649785590136966501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_13
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 2308
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d994ca4cd181b30800000000000000
+      internalID: 4258186178220105042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_14
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 2346
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b648279b5971253a0800000000000000
+      internalID: -6678249365608168341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_15
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 2308
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9062ff20378c430800000000000000
+      internalID: 3803416342022195616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_16
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 2346
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713f5381dba60b5d0800000000000000
+      internalID: -3048819587342273769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_17
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 2308
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438f6abe36a4bc4f0800000000000000
+      internalID: -807469915167066060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_18
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 2346
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0c4d9741b7c41b0800000000000000
+      internalID: -5671022502892748589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_19
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 2308
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2810cc5e4fa2e780800000000000000
+      internalID: -8655162782754269142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_20
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 2346
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98401c972ac8c0ad0800000000000000
+      internalID: -2734656244265450359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_21
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 2247
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d65fbadfec1d9e50800000000000000
+      internalID: 6817637227401533138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_22
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 2278
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0147a864ea31fba0800000000000000
+      internalID: -6056995271153860339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_23
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 2247
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed71e69f7dfe588f0800000000000000
+      internalID: -538760869519157282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_24
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 2278
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8874ef35bc2617660800000000000000
+      internalID: 7381789889664010120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_25
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 2247
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7d38e08af7b0920800000000000000
+      internalID: 2957597940073617359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_26
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 2278
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1f683033d98f200800000000000000
+      internalID: 214093824728166866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_27
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 2247
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e546dcfe732f790800000000000000
+      internalID: -7497868926535836144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_28
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 2278
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23579c87a86fbdf50800000000000000
+      internalID: 6907385528095175986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_29
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2162
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97a09401b5528e60800000000000000
+      internalID: 7963021309918619547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_30
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1914
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5830d4884dc0440800000000000000
+      internalID: 4903527776172344780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_31
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 2162
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad1b681941e67b40800000000000000
+      internalID: 5437781304154987937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_32
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1914
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a6068e1f46a8320800000000000000
+      internalID: 2560970328262077054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_33
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 2162
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9e2bf029e574790800000000000000
+      internalID: -7545958669214357000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_34
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 1914
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b85b0acfc9528a20800000000000000
+      internalID: 3063109445548202164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_35
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 2162
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7aa572c1b65b02b0800000000000000
+      internalID: -5617300788742870401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_36
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 1914
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006a604f114ac61d0800000000000000
+      internalID: -3356127225282386432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_37
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 2086
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 914dc9a80c993d2e0800000000000000
+      internalID: -2102167548813585383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_38
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 2110
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156f5319ea16c0cd0800000000000000
+      internalID: -2590588283256441263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_39
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 2086
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d954e8cd63be690800000000000000
+      internalID: -7571898027585725085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_40
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 2110
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aea7381cbdb525e0800000000000000
+      internalID: -1934931849327956320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_41
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 2086
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27f1f57ac97fa030800000000000000
+      internalID: 3508156545214052142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_42
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 2110
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7295961238a140550800000000000000
+      internalID: 6126050543634307367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_43
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 2086
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72bb9143809c08340800000000000000
+      internalID: 4864108634631158567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_44
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 2110
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806a015a6d2e05b40800000000000000
+      internalID: 5427086962501658120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_45
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2028
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998c0b36d35b5c9f0800000000000000
+      internalID: -448753312583333735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_46
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 2066
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14952140b09b715c0800000000000000
+      internalID: -4244720666809312959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_47
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 2028
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13be50dcbb3594130800000000000000
+      internalID: 3551461847222053681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_48
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2066
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec970be3cf6eabf0800000000000000
+      internalID: -311188436989534998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_49
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 2028
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d538687456e5170800000000000000
+      internalID: 8169078131970497872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_50
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 2066
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f58c941728ed9400800000000000000
+      internalID: 332677202042455544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_51
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 2028
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323c8d06ae3637e30800000000000000
+      internalID: 4500050310971573027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_52
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 2066
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b4dbd015fbdf430800000000000000
+      internalID: 3818418413923814188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_53
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1968
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146fcaecb93f126f0800000000000000
+      internalID: -711019415634905535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_54
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1999
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ed527c02ce92670800000000000000
+      internalID: 8514596196044889719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_55
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1968
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7b7b00c05e919d0800000000000000
+      internalID: -2802957453347014736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_56
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1999
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6482796bafb18f930800000000000000
+      internalID: 4177119418005268550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_57
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 1968
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd5a9f6629828e00800000000000000
+      internalID: 1045548861677526482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_58
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 1999
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5c0b7de40ae1680800000000000000
+      internalID: -8782405962839308888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_59
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 1968
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf39b0f62f6f0ee0800000000000000
+      internalID: -1292692354993930311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_60
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 1999
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1f7bc21e1760c30800000000000000
+      internalID: 4325269704067772921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_61
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 1969
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd9770c97cb610a0800000000000000
+      internalID: -6911129347047318021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_62
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1645
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e99a782d9dedb10800000000000000
+      internalID: 2008281982096219774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_63
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1313
+        width: 575
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5ae694ae9caed10800000000000000
+      internalID: 2155757379741722083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_64
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1313
+        width: 675
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b379b2c5f3b4e7230800000000000000
+      internalID: 3638428284463322939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_65
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 1313
+        width: 606
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4a7ca6fc4eb6d70800000000000000
+      internalID: 9037568656749864103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_66
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 1764
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9fa1c6f5eba99af0800000000000000
+      internalID: -389090888615088225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_67
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1790
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b78898005e6f98b0800000000000000
+      internalID: -5143270959413164107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_68
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 1796
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1555b0d63238dea20800000000000000
+      internalID: 3093272707249952081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_69
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 1707
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12895383baad66230800000000000000
+      internalID: 3631830578438182945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_70
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 1745
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59eeb1b05e672a620800000000000000
+      internalID: 2783918245774356117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_71
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 1646
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3190d244221285870800000000000000
+      internalID: 8671717513558296851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_72
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 1677
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86b81afc9674ed00800000000000000
+      internalID: 1001055433765992074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_73
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1561
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413d73229cbc31210800000000000000
+      internalID: 1302608781963154196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_74
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 1313
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33aa3d9ee52e8be0800000000000000
+      internalID: -1473198321333263558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_75
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1484
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9173e04f216d31850800000000000000
+      internalID: 6346651676787488537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_76
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1509
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a8a6f7597c8f3a0800000000000000
+      internalID: -6631331006401312201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_77
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1427
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d560a4844a7063420800000000000000
+      internalID: 2609281436276622941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_78
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1465
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197af1299682be550800000000000000
+      internalID: 6191086546639103889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_79
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1367
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51263f6e459a21690800000000000000
+      internalID: -7632852236322512363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_80
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1398
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc58c64f5e3acf7e0800000000000000
+      internalID: -1730327948773521973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_81
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 1368
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cdf376d4375312f0800000000000000
+      internalID: -1003362407525646907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_82
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1044
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8f99fd69e9d7650800000000000000
+      internalID: 6232311830184327337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_83
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 443
+        width: 1124
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd09fa692eff7a6f0800000000000000
+      internalID: -673288270612819748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_84
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 635
+        width: 593
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a9c1b5ce06040f0800000000000000
+      internalID: -1134800537840215515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_85
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 1163
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aed02c3355525060800000000000000
+      internalID: 6940703791710789284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_86
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1189
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8822070701dcfa0d0800000000000000
+      internalID: -3409280922406608248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_87
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 1195
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc09a210a203e520800000000000000
+      internalID: 2730028685647744184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_88
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 1106
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b838194842488250800000000000000
+      internalID: 5947076186174142643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_89
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 1144
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc1913f5efaf4bb0800000000000000
+      internalID: -4949544063296004899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_90
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 1045
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf9990cf2ef86d20800000000000000
+      internalID: 3272144610332876740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_91
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 1076
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7462f54a29809efc0800000000000000
+      internalID: -3465229012368939449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_92
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 960
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66e76cb5ac97a8c0800000000000000
+      internalID: -3988046709368822161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_93
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 960
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8b87e0de8c23200800000000000000
+      internalID: 158409857386985683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_94
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 712
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6725bead8dc1e5300800000000000000
+      internalID: 242663147635954294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_95
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 884
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f448c918bf626690800000000000000
+      internalID: -7610397583805496072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_96
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 908
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac584aebb09ce32e0800000000000000
+      internalID: -2144055320301500982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_97
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 826
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0378795e67b2996f0800000000000000
+      internalID: -677462479284500688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_98
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 864
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32876ba5ecfc10070800000000000000
+      internalID: 8070960492416759843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_99
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 766
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25bcd0ff68b15ab0800000000000000
+      internalID: -5021029318619515601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_100
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 797
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7ea13696251a940800000000000000
+      internalID: 5305612448606906310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_101
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 767
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15083d8a02928450800000000000000
+      internalID: 6089590220174918942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_102
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 443
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb74a314e0af780f0800000000000000
+      internalID: -1114647443620083778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_103
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 562
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645e291334fcc2ea0800000000000000
+      internalID: -5896109924633352890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_104
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 588
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8894b46dbe8e122c0800000000000000
+      internalID: -4458026056509863544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_105
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 443
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca7ef2579c8b4980800000000000000
+      internalID: -8553588485699765567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_106
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 562
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48044ae812a53e650800000000000000
+      internalID: 6260947007148671108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_107
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 588
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6603baa455b9820800000000000000
+      internalID: 2926026162095286012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_108
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 594
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7682682378ca37d0800000000000000
+      internalID: -2937815409981487489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_109
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 505
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bffaf9992331f6c70800000000000000
+      internalID: 8966406491164618747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_110
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 543
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa0e4b0fce43e380800000000000000
+      internalID: -8943217783872812301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_111
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 505
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87986d6873d93c400800000000000000
+      internalID: 343290858421258616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_112
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 543
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ca3897a634fa7f0800000000000000
+      internalID: -599186100832719729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_113
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 444
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d950486be0de1c0800000000000000
+      internalID: -4472902677847237227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_114
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 475
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ecfd416dd0519390800000000000000
+      internalID: -7813374966760604442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_115
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 444
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d528be433ca1b26c0800000000000000
+      internalID: -4167207604492467619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_116
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 475
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4fa0b4dd4d66ac0800000000000000
+      internalID: -3862165583511751486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_117
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 359
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6a24280c1abf050800000000000000
+      internalID: 5835435590379808500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_118
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 111
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36a1272ea1311080800000000000000
+      internalID: -9218532338200107458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_119
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 359
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e86ffdae71a6c40800000000000000
+      internalID: 5506239791961116227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_120
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 111
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fbf38f28cb29a9f0800000000000000
+      internalID: -456785748410762256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_121
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 359
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25a59ce77f5770a0800000000000000
+      internalID: -6883928536737536724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_122
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 111
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575da0f293f821130800000000000000
+      internalID: 3536046133204407669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_123
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 359
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865e651eefc954320800000000000000
+      internalID: 2541610183236707688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_124
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 111
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c7cf5a1f77f8280800000000000000
+      internalID: -9038874047353684977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_125
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 282
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0f8a8e783836d10800000000000000
+      internalID: 2117680869541474489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_126
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 307
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ce1273266133d20800000000000000
+      internalID: 3256971566606576748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_127
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 282
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c80b7cd8d3e39210800000000000000
+      internalID: 1338664034810661062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_128
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 307
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c9874cc37472e70800000000000000
+      internalID: 9090312699190484035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_129
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 282
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bcb70689e15b7920800000000000000
+      internalID: 2989072841108339891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_130
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 307
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e8c419dda336580800000000000000
+      internalID: -8835153320670884253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_131
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 282
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c67a6ac804c16fa0800000000000000
+      internalID: -5809146502296471870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_132
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 307
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad594cc09c78180b0800000000000000
+      internalID: -5728147953466173990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_133
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 225
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b662c43cb036fb640800000000000000
+      internalID: 5097902205379028587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_134
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 263
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff1a290128f35cc0800000000000000
+      internalID: -3723359646133903365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_135
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 225
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682f58c4b5283ee40800000000000000
+      internalID: 5684530483309179526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_136
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 263
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24fd44c9866eaeb60800000000000000
+      internalID: 7776281043581329218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_137
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 225
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc36201e66b1ba390800000000000000
+      internalID: -7806115400440978485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_138
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 263
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31219a1ac3319360800000000000000
+      internalID: 7174572624500039995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_139
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 225
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5602055f212643370800000000000000
+      internalID: 8301367846715269221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_140
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 263
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8ace3bbe6ea7f30800000000000000
+      internalID: 4574222271558494448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_141
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 165
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3013a5de4664b8aa0800000000000000
+      internalID: -6157750666206236413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_142
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 196
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e4637a0359fdfc0800000000000000
+      internalID: -3467889151855669694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_143
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 165
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df92cad8d99b7ac00800000000000000
+      internalID: 911901535903689213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_144
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 196
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd9b503890dd1f70800000000000000
+      internalID: 9159706569206373853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_145
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 165
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca288337f3529fa0800000000000000
+      internalID: -5795477449285817660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_146
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 196
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c174a7ff6fd3cd20800000000000000
+      internalID: 3297725024154448327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_147
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 165
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef37ed5ce71a5fda0800000000000000
+      internalID: -5911641369996266498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_148
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 196
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63e084adf6cdb280800000000000000
+      internalID: -9025839285491670165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_149
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 166
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956c4057860c32b30800000000000000
+      internalID: 4261461227295000153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_150
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9f5998bb5ae7c00800000000000000
+      internalID: 900339200406452719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_151
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 0
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1423a0b3de245bd0800000000000000
+      internalID: -2642435594623179748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_152
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 0
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049415431076e5fd0800000000000000
+      internalID: -2351328700570449600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_153
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 0
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d379fb25f2a7c7940800000000000000
+      internalID: 5295241605551200061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_154
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 0
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef55932a36ab8130800000000000000
+      internalID: 3570129898256556000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_155
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 0
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22841d9dec551c10800000000000000
+      internalID: 2023625783185277483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_156
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 0
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507fac7aef7b72ac0800000000000000
+      internalID: -3879930249591720187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_157
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 0
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6fac3572e7d61860800000000000000
+      internalID: 7500419597061631851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_158
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 0
+        width: 90
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280a70acc8ca24d80800000000000000
+      internalID: -8267856245213912958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_0: -298990690698622775
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_1: 5371628458553156242
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_10: 7397328478975059866
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_100: 5305612448606906310
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_101: 6089590220174918942
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_102: -1114647443620083778
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_103: -5896109924633352890
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_104: -4458026056509863544
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_105: -8553588485699765567
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_106: 6260947007148671108
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_107: 2926026162095286012
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_108: -2937815409981487489
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_109: 8966406491164618747
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_11: 5422599170563247204
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_110: -8943217783872812301
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_111: 343290858421258616
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_112: -599186100832719729
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_113: -4472902677847237227
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_114: -7813374966760604442
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_115: -4167207604492467619
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_116: -3862165583511751486
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_117: 5835435590379808500
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_118: -9218532338200107458
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_119: 5506239791961116227
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_12: 6649785590136966501
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_120: -456785748410762256
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_121: -6883928536737536724
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_122: 3536046133204407669
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_123: 2541610183236707688
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_124: -9038874047353684977
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_125: 2117680869541474489
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_126: 3256971566606576748
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_127: 1338664034810661062
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_128: 9090312699190484035
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_129: 2989072841108339891
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_13: 4258186178220105042
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_130: -8835153320670884253
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_131: -5809146502296471870
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_132: -5728147953466173990
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_133: 5097902205379028587
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_134: -3723359646133903365
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_135: 5684530483309179526
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_136: 7776281043581329218
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_137: -7806115400440978485
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_138: 7174572624500039995
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_139: 8301367846715269221
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_14: -6678249365608168341
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_140: 4574222271558494448
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_141: -6157750666206236413
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_142: -3467889151855669694
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_143: 911901535903689213
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_144: 9159706569206373853
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_145: -5795477449285817660
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_146: 3297725024154448327
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_147: -5911641369996266498
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_148: -9025839285491670165
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_149: 4261461227295000153
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_15: 3803416342022195616
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_150: 900339200406452719
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_151: -2642435594623179748
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_152: -2351328700570449600
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_153: 5295241605551200061
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_154: 3570129898256556000
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_155: 2023625783185277483
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_156: -3879930249591720187
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_157: 7500419597061631851
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_158: -8267856245213912958
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_16: -3048819587342273769
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_17: -807469915167066060
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_18: -5671022502892748589
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_19: -8655162782754269142
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_2: 6297260587309294338
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_20: -2734656244265450359
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_21: 6817637227401533138
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_22: -6056995271153860339
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_23: -538760869519157282
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_24: 7381789889664010120
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_25: 2957597940073617359
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_26: 214093824728166866
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_27: -7497868926535836144
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_28: 6907385528095175986
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_29: 7963021309918619547
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_3: 7420090331179362204
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_30: 4903527776172344780
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_31: 5437781304154987937
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_32: 2560970328262077054
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_33: -7545958669214357000
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_34: 3063109445548202164
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_35: -5617300788742870401
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_36: -3356127225282386432
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_37: -2102167548813585383
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_38: -2590588283256441263
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_39: -7571898027585725085
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_4: -6040669788993652464
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_40: -1934931849327956320
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_41: 3508156545214052142
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_42: 6126050543634307367
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_43: 4864108634631158567
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_44: 5427086962501658120
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_45: -448753312583333735
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_46: -4244720666809312959
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_47: 3551461847222053681
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_48: -311188436989534998
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_49: 8169078131970497872
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_5: 7471318335650070087
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_50: 332677202042455544
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_51: 4500050310971573027
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_52: 3818418413923814188
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_53: -711019415634905535
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_54: 8514596196044889719
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_55: -2802957453347014736
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_56: 4177119418005268550
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_57: 1045548861677526482
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_58: -8782405962839308888
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_59: -1292692354993930311
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_6: -8057469428892587957
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_60: 4325269704067772921
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_61: -6911129347047318021
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_62: 2008281982096219774
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_63: 2155757379741722083
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_64: 3638428284463322939
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_65: 9037568656749864103
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_66: -389090888615088225
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_67: -5143270959413164107
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_68: 3093272707249952081
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_69: 3631830578438182945
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_7: -7997661888164147019
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_70: 2783918245774356117
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_71: 8671717513558296851
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_72: 1001055433765992074
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_73: 1302608781963154196
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_74: -1473198321333263558
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_75: 6346651676787488537
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_76: -6631331006401312201
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_77: 2609281436276622941
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_78: 6191086546639103889
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_79: -7632852236322512363
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_8: 3625693491905110385
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_80: -1730327948773521973
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_81: -1003362407525646907
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_82: 6232311830184327337
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_83: -673288270612819748
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_84: -1134800537840215515
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_85: 6940703791710789284
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_86: -3409280922406608248
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_87: 2730028685647744184
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_88: 5947076186174142643
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_89: -4949544063296004899
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_9: -2036203631661682615
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_90: 3272144610332876740
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_91: -3465229012368939449
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_92: -3988046709368822161
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_93: 158409857386985683
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_94: 242663147635954294
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_95: -7610397583805496072
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_96: -2144055320301500982
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_97: -677462479284500688
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_98: 8070960492416759843
+      pngtree-play-the-game-and-win-the-font-game-pixel-style-png-image_5486026_99: -5021029318619515601
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

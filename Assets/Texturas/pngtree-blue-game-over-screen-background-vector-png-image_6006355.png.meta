@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: 06aefa737d6878b40b0963b9e5f7d830
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4045323842602779931
+    second: pngtree-blue-game-over-screen-background-vector-png-image_6006355_0
+  - first:
+      213: -4437237213926957594
+    second: pngtree-blue-game-over-screen-background-vector-png-image_6006355_1
+  - first:
+      213: 4579783782906420845
+    second: pngtree-blue-game-over-screen-background-vector-png-image_6006355_2
+  - first:
+      213: 8845677209262719244
+    second: pngtree-blue-game-over-screen-background-vector-png-image_6006355_3
+  - first:
+      213: -917113676904973044
+    second: pngtree-blue-game-over-screen-background-vector-png-image_6006355_4
+  - first:
+      213: 2206194131114631585
+    second: pngtree-blue-game-over-screen-background-vector-png-image_6006355_5
+  - first:
+      213: 7583509255992683562
+    second: pngtree-blue-game-over-screen-background-vector-png-image_6006355_6
+  - first:
+      213: 2424970538607910390
+    second: pngtree-blue-game-over-screen-background-vector-png-image_6006355_7
+  - first:
+      213: -2851993634482775431
+    second: pngtree-blue-game-over-screen-background-vector-png-image_6006355_8
+  - first:
+      213: -1407230694294330174
+    second: pngtree-blue-game-over-screen-background-vector-png-image_6006355_9
+  - first:
+      213: 4686311778890292917
+    second: pngtree-blue-game-over-screen-background-vector-png-image_6006355_10
+  - first:
+      213: -2430541287853591582
+    second: pngtree-blue-game-over-screen-background-vector-png-image_6006355_11
+  - first:
+      213: 1643967920599850670
+    second: pngtree-blue-game-over-screen-background-vector-png-image_6006355_12
+  - first:
+      213: 6795595209750999638
+    second: pngtree-blue-game-over-screen-background-vector-png-image_6006355_13
+  - first:
+      213: -6647058502360805878
+    second: pngtree-blue-game-over-screen-background-vector-png-image_6006355_14
+  - first:
+      213: -8666222354232892504
+    second: pngtree-blue-game-over-screen-background-vector-png-image_6006355_15
+  - first:
+      213: -3148817724032681838
+    second: pngtree-blue-game-over-screen-background-vector-png-image_6006355_16
+  - first:
+      213: 4189585565926194578
+    second: pngtree-blue-game-over-screen-background-vector-png-image_6006355_17
+  - first:
+      213: -5583306661708425137
+    second: pngtree-blue-game-over-screen-background-vector-png-image_6006355_18
+  - first:
+      213: 9110631193185464463
+    second: pngtree-blue-game-over-screen-background-vector-png-image_6006355_19
+  - first:
+      213: -6439566294102211381
+    second: pngtree-blue-game-over-screen-background-vector-png-image_6006355_20
+  - first:
+      213: -583752010342227190
+    second: pngtree-blue-game-over-screen-background-vector-png-image_6006355_21
+  - first:
+      213: -2593643440929568433
+    second: pngtree-blue-game-over-screen-background-vector-png-image_6006355_22
+  - first:
+      213: 9076216417402987582
+    second: pngtree-blue-game-over-screen-background-vector-png-image_6006355_23
+  - first:
+      213: 1054015819928660681
+    second: pngtree-blue-game-over-screen-background-vector-png-image_6006355_24
+  - first:
+      213: 3530841039073559456
+    second: pngtree-blue-game-over-screen-background-vector-png-image_6006355_25
+  - first:
+      213: -1310866873721418832
+    second: pngtree-blue-game-over-screen-background-vector-png-image_6006355_26
+  - first:
+      213: 708491565852485410
+    second: pngtree-blue-game-over-screen-background-vector-png-image_6006355_27
+  - first:
+      213: 8085668996801010377
+    second: pngtree-blue-game-over-screen-background-vector-png-image_6006355_28
+  - first:
+      213: 3464989202493679156
+    second: pngtree-blue-game-over-screen-background-vector-png-image_6006355_29
+  - first:
+      213: 7406532191903430291
+    second: pngtree-blue-game-over-screen-background-vector-png-image_6006355_30
+  - first:
+      213: 1239062765116026828
+    second: pngtree-blue-game-over-screen-background-vector-png-image_6006355_31
+  - first:
+      213: -1933888390863366826
+    second: pngtree-blue-game-over-screen-background-vector-png-image_6006355_32
+  - first:
+      213: -4769093933410012341
+    second: pngtree-blue-game-over-screen-background-vector-png-image_6006355_33
+  - first:
+      213: 6440157147218863536
+    second: pngtree-blue-game-over-screen-background-vector-png-image_6006355_34
+  - first:
+      213: -6867077359079701929
+    second: pngtree-blue-game-over-screen-background-vector-png-image_6006355_35
+  - first:
+      213: 3242067466983716878
+    second: pngtree-blue-game-over-screen-background-vector-png-image_6006355_36
+  - first:
+      213: 5103050962952085081
+    second: pngtree-blue-game-over-screen-background-vector-png-image_6006355_37
+  - first:
+      213: 5286308936641877750
+    second: pngtree-blue-game-over-screen-background-vector-png-image_6006355_38
+  - first:
+      213: 4784114098715292300
+    second: pngtree-blue-game-over-screen-background-vector-png-image_6006355_39
+  - first:
+      213: 3224138536076341733
+    second: pngtree-blue-game-over-screen-background-vector-png-image_6006355_40
+  - first:
+      213: -3343240890761580947
+    second: pngtree-blue-game-over-screen-background-vector-png-image_6006355_41
+  - first:
+      213: -2019900173362906854
+    second: pngtree-blue-game-over-screen-background-vector-png-image_6006355_42
+  - first:
+      213: -7351432542620508963
+    second: pngtree-blue-game-over-screen-background-vector-png-image_6006355_43
+  - first:
+      213: 4367193836719239228
+    second: pngtree-blue-game-over-screen-background-vector-png-image_6006355_44
+  - first:
+      213: -3572167699973538181
+    second: pngtree-blue-game-over-screen-background-vector-png-image_6006355_45
+  - first:
+      213: -3426760533462249808
+    second: pngtree-blue-game-over-screen-background-vector-png-image_6006355_46
+  - first:
+      213: -7342232434628655125
+    second: pngtree-blue-game-over-screen-background-vector-png-image_6006355_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngtree-blue-game-over-screen-background-vector-png-image_6006355_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 946
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15c1cf0a90e32830800000000000000
+      internalID: 4045323842602779931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-blue-game-over-screen-background-vector-png-image_6006355_1
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1065
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed5dbf6344cb62c0800000000000000
+      internalID: -4437237213926957594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-blue-game-over-screen-background-vector-png-image_6006355_2
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1090
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e5b38f519ae8f30800000000000000
+      internalID: 4579783782906420845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-blue-game-over-screen-background-vector-png-image_6006355_3
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 862
+        width: 331
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c018fdf2e8822ca70800000000000000
+      internalID: 8845677209262719244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-blue-game-over-screen-background-vector-png-image_6006355_4
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1065
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d3d6d48f1c543f0800000000000000
+      internalID: -917113676904973044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-blue-game-over-screen-background-vector-png-image_6006355_5
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1090
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1a3a29fd9fd9e10800000000000000
+      internalID: 2206194131114631585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-blue-game-over-screen-background-vector-png-image_6006355_6
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 912
+        width: 103
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ca45a3d790e3960800000000000000
+      internalID: 7583509255992683562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-blue-game-over-screen-background-vector-png-image_6006355_7
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1045
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd13885bd937a120800000000000000
+      internalID: 2424970538607910390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-blue-game-over-screen-background-vector-png-image_6006355_8
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1008
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a9af266eeab68d0800000000000000
+      internalID: -2851993634482775431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-blue-game-over-screen-background-vector-png-image_6006355_9
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1045
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c46f8da323887ce0800000000000000
+      internalID: -1407230694294330174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-blue-game-over-screen-background-vector-png-image_6006355_10
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 862
+        width: 108
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be1c77dbbf190140800000000000000
+      internalID: 4686311778890292917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-blue-game-over-screen-background-vector-png-image_6006355_11
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 947
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3f095839bf44ed0800000000000000
+      internalID: -2430541287853591582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-blue-game-over-screen-background-vector-png-image_6006355_12
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 978
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaedd791d1c80d610800000000000000
+      internalID: 1643967920599850670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-blue-game-over-screen-background-vector-png-image_6006355_13
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 912
+        width: 99
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652fd82b6ddce4e50800000000000000
+      internalID: 6795595209750999638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-blue-game-over-screen-background-vector-png-image_6006355_14
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 947
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e4b8d7287e0c3a0800000000000000
+      internalID: -6647058502360805878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-blue-game-over-screen-background-vector-png-image_6006355_15
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 978
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a326673fa46bb780800000000000000
+      internalID: -8666222354232892504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-blue-game-over-screen-background-vector-png-image_6006355_16
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 786
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298f39096f62d44d0800000000000000
+      internalID: -3148817724032681838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-blue-game-over-screen-background-vector-png-image_6006355_17
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 811
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d7225ffd5642a30800000000000000
+      internalID: 4189585565926194578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-blue-game-over-screen-background-vector-png-image_6006355_18
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 345
+        width: 769
+        height: 523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f481ccc3c2c1482b0800000000000000
+      internalID: -5583306661708425137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-blue-game-over-screen-background-vector-png-image_6006355_19
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 614
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80b96dccc67f6e70800000000000000
+      internalID: 9110631193185464463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-blue-game-over-screen-background-vector-png-image_6006355_20
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 728
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc48574e29012a6a0800000000000000
+      internalID: -6439566294102211381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-blue-game-over-screen-background-vector-png-image_6006355_21
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 766
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03a1a2b3a816e7f0800000000000000
+      internalID: -583752010342227190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-blue-game-over-screen-background-vector-png-image_6006355_22
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 668
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f490f5d3807810cd0800000000000000
+      internalID: -2593643440929568433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-blue-game-over-screen-background-vector-png-image_6006355_23
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 699
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34afd76eb235fd70800000000000000
+      internalID: 9076216417402987582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-blue-game-over-screen-background-vector-png-image_6006355_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 345
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca6d76cdcd90ae00800000000000000
+      internalID: 1054015819928660681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-blue-game-over-screen-background-vector-png-image_6006355_25
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 464
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3c954c731100130800000000000000
+      internalID: 3530841039073559456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-blue-game-over-screen-background-vector-png-image_6006355_26
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 489
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb020c068ddecde0800000000000000
+      internalID: -1310866873721418832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-blue-game-over-screen-background-vector-png-image_6006355_27
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 407
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2276ffc435115d900800000000000000
+      internalID: 708491565852485410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-blue-game-over-screen-background-vector-png-image_6006355_28
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 444
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca96b5ec11163070800000000000000
+      internalID: 8085668996801010377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-blue-game-over-screen-background-vector-png-image_6006355_29
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 346
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4362335425d161030800000000000000
+      internalID: 3464989202493679156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-blue-game-over-screen-background-vector-png-image_6006355_30
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 377
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39636eb79c949c660800000000000000
+      internalID: 7406532191903430291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-blue-game-over-screen-background-vector-png-image_6006355_31
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 261
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf67212509023110800000000000000
+      internalID: 1239062765116026828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-blue-game-over-screen-background-vector-png-image_6006355_32
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 13
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655565331c27925e0800000000000000
+      internalID: -1933888390863366826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-blue-game-over-screen-background-vector-png-image_6006355_33
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 261
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4330a6d556c0ddb0800000000000000
+      internalID: -4769093933410012341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-blue-game-over-screen-background-vector-png-image_6006355_34
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 13
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b56ca1ddc8006950800000000000000
+      internalID: 6440157147218863536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-blue-game-over-screen-background-vector-png-image_6006355_35
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 185
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7524de6768d33b0a0800000000000000
+      internalID: -6867077359079701929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-blue-game-over-screen-background-vector-png-image_6006355_36
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 210
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e083a6b1f232efc20800000000000000
+      internalID: 3242067466983716878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-blue-game-over-screen-background-vector-png-image_6006355_37
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 168
+        width: 261
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e597d40dda1d640800000000000000
+      internalID: 5103050962952085081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-blue-game-over-screen-background-vector-png-image_6006355_38
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 185
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6138548fdbc5940800000000000000
+      internalID: 5286308936641877750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-blue-game-over-screen-background-vector-png-image_6006355_39
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 210
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82fcdaec66946240800000000000000
+      internalID: 4784114098715292300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-blue-game-over-screen-background-vector-png-image_6006355_40
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 127
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e17a759ae07ebc20800000000000000
+      internalID: 3224138536076341733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-blue-game-over-screen-background-vector-png-image_6006355_41
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 165
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e68938f1c6a91d0800000000000000
+      internalID: -3343240890761580947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-blue-game-over-screen-background-vector-png-image_6006355_42
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 127
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1934f48e7fd7f3e0800000000000000
+      internalID: -2019900173362906854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-blue-game-over-screen-background-vector-png-image_6006355_43
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 165
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc9bd25d077af990800000000000000
+      internalID: -7351432542620508963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-blue-game-over-screen-background-vector-png-image_6006355_44
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 67
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30fce6f7a36b9c30800000000000000
+      internalID: 4367193836719239228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-blue-game-over-screen-background-vector-png-image_6006355_45
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 98
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ef3fc276c1d6ec0800000000000000
+      internalID: -3572167699973538181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-blue-game-over-screen-background-vector-png-image_6006355_46
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 67
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be87a85373b170d0800000000000000
+      internalID: -3426760533462249808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-blue-game-over-screen-background-vector-png-image_6006355_47
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 98
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be78b9360862b1a90800000000000000
+      internalID: -7342232434628655125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pngtree-blue-game-over-screen-background-vector-png-image_6006355_0: 4045323842602779931
+      pngtree-blue-game-over-screen-background-vector-png-image_6006355_1: -4437237213926957594
+      pngtree-blue-game-over-screen-background-vector-png-image_6006355_10: 4686311778890292917
+      pngtree-blue-game-over-screen-background-vector-png-image_6006355_11: -2430541287853591582
+      pngtree-blue-game-over-screen-background-vector-png-image_6006355_12: 1643967920599850670
+      pngtree-blue-game-over-screen-background-vector-png-image_6006355_13: 6795595209750999638
+      pngtree-blue-game-over-screen-background-vector-png-image_6006355_14: -6647058502360805878
+      pngtree-blue-game-over-screen-background-vector-png-image_6006355_15: -8666222354232892504
+      pngtree-blue-game-over-screen-background-vector-png-image_6006355_16: -3148817724032681838
+      pngtree-blue-game-over-screen-background-vector-png-image_6006355_17: 4189585565926194578
+      pngtree-blue-game-over-screen-background-vector-png-image_6006355_18: -5583306661708425137
+      pngtree-blue-game-over-screen-background-vector-png-image_6006355_19: 9110631193185464463
+      pngtree-blue-game-over-screen-background-vector-png-image_6006355_2: 4579783782906420845
+      pngtree-blue-game-over-screen-background-vector-png-image_6006355_20: -6439566294102211381
+      pngtree-blue-game-over-screen-background-vector-png-image_6006355_21: -583752010342227190
+      pngtree-blue-game-over-screen-background-vector-png-image_6006355_22: -2593643440929568433
+      pngtree-blue-game-over-screen-background-vector-png-image_6006355_23: 9076216417402987582
+      pngtree-blue-game-over-screen-background-vector-png-image_6006355_24: 1054015819928660681
+      pngtree-blue-game-over-screen-background-vector-png-image_6006355_25: 3530841039073559456
+      pngtree-blue-game-over-screen-background-vector-png-image_6006355_26: -1310866873721418832
+      pngtree-blue-game-over-screen-background-vector-png-image_6006355_27: 708491565852485410
+      pngtree-blue-game-over-screen-background-vector-png-image_6006355_28: 8085668996801010377
+      pngtree-blue-game-over-screen-background-vector-png-image_6006355_29: 3464989202493679156
+      pngtree-blue-game-over-screen-background-vector-png-image_6006355_3: 8845677209262719244
+      pngtree-blue-game-over-screen-background-vector-png-image_6006355_30: 7406532191903430291
+      pngtree-blue-game-over-screen-background-vector-png-image_6006355_31: 1239062765116026828
+      pngtree-blue-game-over-screen-background-vector-png-image_6006355_32: -1933888390863366826
+      pngtree-blue-game-over-screen-background-vector-png-image_6006355_33: -4769093933410012341
+      pngtree-blue-game-over-screen-background-vector-png-image_6006355_34: 6440157147218863536
+      pngtree-blue-game-over-screen-background-vector-png-image_6006355_35: -6867077359079701929
+      pngtree-blue-game-over-screen-background-vector-png-image_6006355_36: 3242067466983716878
+      pngtree-blue-game-over-screen-background-vector-png-image_6006355_37: 5103050962952085081
+      pngtree-blue-game-over-screen-background-vector-png-image_6006355_38: 5286308936641877750
+      pngtree-blue-game-over-screen-background-vector-png-image_6006355_39: 4784114098715292300
+      pngtree-blue-game-over-screen-background-vector-png-image_6006355_4: -917113676904973044
+      pngtree-blue-game-over-screen-background-vector-png-image_6006355_40: 3224138536076341733
+      pngtree-blue-game-over-screen-background-vector-png-image_6006355_41: -3343240890761580947
+      pngtree-blue-game-over-screen-background-vector-png-image_6006355_42: -2019900173362906854
+      pngtree-blue-game-over-screen-background-vector-png-image_6006355_43: -7351432542620508963
+      pngtree-blue-game-over-screen-background-vector-png-image_6006355_44: 4367193836719239228
+      pngtree-blue-game-over-screen-background-vector-png-image_6006355_45: -3572167699973538181
+      pngtree-blue-game-over-screen-background-vector-png-image_6006355_46: -3426760533462249808
+      pngtree-blue-game-over-screen-background-vector-png-image_6006355_47: -7342232434628655125
+      pngtree-blue-game-over-screen-background-vector-png-image_6006355_5: 2206194131114631585
+      pngtree-blue-game-over-screen-background-vector-png-image_6006355_6: 7583509255992683562
+      pngtree-blue-game-over-screen-background-vector-png-image_6006355_7: 2424970538607910390
+      pngtree-blue-game-over-screen-background-vector-png-image_6006355_8: -2851993634482775431
+      pngtree-blue-game-over-screen-background-vector-png-image_6006355_9: -1407230694294330174
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
