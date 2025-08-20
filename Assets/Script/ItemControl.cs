@@ -1,5 +1,6 @@
 using TMPro;
 using UnityEngine;
+using UnityEngine.InputSystem.Controls;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI; 
 //using TMPro;
@@ -13,14 +14,19 @@ public class ItemControl : MonoBehaviour
     public AudioSource enemyAudioSource;  // For enemy sound
     public TMP_Text healthText;
     public TMP_Text coinsText;
+    public TMP_Text timeText;
+    public float time;
 
     void Start()
     {
         health = maxHealth;
+        time =0f;
     }
 
     void Update()
     {
+        time += Time.deltaTime; // Increment time each frame
+
         Collider2D collision = Physics2D.OverlapCircle(transform.position, 0.4f, 128);
         if (collision)
         {
@@ -48,6 +54,7 @@ public class ItemControl : MonoBehaviour
         }
         healthText.text = "Health: " + health;
         coinsText.text = "Coins: " + coins;
+        timeText.text = "Time: " + Mathf.FloorToInt(time);
     }
 
     
